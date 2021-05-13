@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import sys
 import ply.lex as lex
 import ply.yacc as yacc
